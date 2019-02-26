@@ -1,1 +1,1 @@
-# Divi_Child_Theme-F3Px
+# Divi_Child_Theme-florent.biz
